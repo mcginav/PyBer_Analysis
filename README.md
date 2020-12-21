@@ -13,8 +13,8 @@ The purpose of this analysis is to analyze four months of ride share data from t
     matplotlib 3.3.2
     
     Data 
-    city_data.csv
-    ride_data.csv
+    https://github.com/mcginav/PyBer_Analysis/blob/main/Resources/city_data.csv
+    https://github.com/mcginav/PyBer_Analysis/blob/main/Resources/ride_data.csv
    
 ##  Summary
 
@@ -55,6 +55,6 @@ https://github.com/mcginav/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.
 
 
 ## Recommendations
-1. 
-2.
-3.
+https://github.com/mcginav/PyBer_Analysis/blob/main/analysis/Fig5.png 
+The data shows that the Urban cities made up more than 62% of the revenue in the four month period. More resources should be spent in Rural and Suburban cities to increase the number of rides in those cities. I would recommend collecting more data for the Rural and Suburban cities including the length of trips and the amount of wait time for the ride. The average ride fare is higher in the rural and suburban cities. Does that mean the trip lengths are longer? Drivers also make more per trip in those cities. Would increasing the number of drivers increase the number of trips taken? I would recommend creating incentives to riders in the Rural and Suburban cities to try to increase the number of rides in those areas. I would also recommend recruiting more drivers in the Rural and Suburban cities to have more accessibility to riders.
+
