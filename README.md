@@ -20,7 +20,7 @@ The purpose of this analysis is to analyze four months of ride share data from t
 
 After reviewing the data the total rides, number of drivers, and total fares are highest in the urban cities. However, the data also shows that the Average fare per ride and per driver are highest in rural cities.
 
-1. Total Rides in 
+1. Total Rides 
 
 Rural        125
 Suburban     625
@@ -51,9 +51,10 @@ Suburban    $39.50
 Urban       $16.57
    
 6. Total Fare by City Type per week   
-analysis/PyBer_fare_summary.png
+!(https://github.com/mcginav/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
 
 ## Recommendations
-1.
+1. 
 2.
 3.
