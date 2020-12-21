@@ -51,7 +51,7 @@ Suburban    $39.50
 Urban       $16.57
    
 6. Total Fare by City Type per week   
-!(https://github.com/mcginav/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+https://github.com/mcginav/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png
 
 
 ## Recommendations
